@@ -30,4 +30,4 @@ Mouth Controlled Food Catch Game is an interactive computer vision project devel
 - `burger.png`, `pizza.png`, `broccoli.png`, `bomb.png` - Game assets
 
 ## Author
-Anushitha
+Anushitha R
